@@ -23,13 +23,7 @@ git clone git@github.com/vacivor/brewclean.git
 cd brewclean
 
 # Build and install
-cargo install --path .
-```
-
-### Via Cargo
-
-```bash
-cargo install brewclean
+cargo install .
 ```
 
 ## Usage
